@@ -9,7 +9,7 @@ Folder ini berisi Source code dan Laporan Praktikum Algoritma Pemrograman Dan St
 
 **Format Penamaan untuk Soal guided dan unguided** : 
 
- - Untuk penamaan berformat **guided/unguided*subModul*_*nomorSoal*.go**
+ - Untuk penamaan berformat **guided/unguided**SubModul_**nomorSoal.go**
  misalkan : **guided2a_3.go** ekuivalen dengan **guided soal sub modul 2a nomor 3**
  - kata mod dibelakang nama (misalkan : guided2c_2 mod.go) merupakan program lanjutan untuk soal yang meminta penambahan instruksi atau modifikasi misalkan :\
  ```Modifikasi program sebelumnya yang menerima input integer 𝐾 dan menghitung √2 untuk 𝐾 tersebut. Hampiran √2 dituliskan dalam ketelitian 10 angka di belakang koma.```\
