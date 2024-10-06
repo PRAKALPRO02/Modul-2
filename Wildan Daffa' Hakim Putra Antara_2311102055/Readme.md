@@ -1,5 +1,5 @@
 ## Laporan Praktikum Modul 2
-Folder ini berisi Source code dan Laporan Praktikum Algoritma Pemrograman Dan Struktur Data
+Folder ini berisi Source code dan Laporan Praktikum Algoritma Pemrograman 2
 
 **Pembuat Folder dan Isinya:**
 
